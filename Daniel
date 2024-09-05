@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>9в Лучший</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+            color: #333;
+            text-align: center;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 20px;
+        }
+        main {
+            padding: 20px;
+        }
+        footer {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>9в Лучший</h1>
+    </header>
+    <main>
+        <h2>Добро пожаловать на наш сайт!</h2>
+        <p>Здесь вы найдете информацию о том, что мы предлагаем. Спасибо за визит!</p>
+    </main>
+    <footer>
+        <p>&copy; 2024 9в Лучший. Все права защищены.</p>
+    </footer>
+</body>
+</html>
